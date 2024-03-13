@@ -8,3 +8,4 @@ Solution for Hackerearth Basic Programing Problems
 6.Roy and Profile Picture
 7.Zoos
 8.Toggle String
+9.Life, the Universe, and Everything
