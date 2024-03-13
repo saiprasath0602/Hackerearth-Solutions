@@ -1,0 +1,5 @@
+#Python Code for Toggle String
+
+
+S=input()
+print(S.swapcase())
