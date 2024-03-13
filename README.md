@@ -10,3 +10,4 @@ Solution for Hackerearth Basic Programing Problems
 8.Toggle String
 9.Life, the Universe, and Everything
 10.Seven-Segment Display
+11.Ali and Helping innocent people
