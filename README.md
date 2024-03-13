@@ -7,3 +7,4 @@ Solution for Hackerearth Basic Programing Problems
 5.Palindromic String
 6.Roy and Profile Picture
 7.Zoos
+8.Toggle String
