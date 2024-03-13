@@ -9,3 +9,4 @@ Solution for Hackerearth Basic Programing Problems
 7.Zoos
 8.Toggle String
 9.Life, the Universe, and Everything
+10.Seven-Segment Display
