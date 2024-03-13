@@ -1,0 +1,22 @@
+#Python Code for Ali and Helping innocent people
+
+
+V = ('A','E','I','O','U','Y')
+T = input()
+SD02 = int(T[:1]) + int(T[1:2])
+SD35 = int(T[3:4]) + int(T[4:5])
+SD46 = int(T[4:5]) + int(T[5:6])
+SD78 = int(T[7:8]) + int(T[8:])
+alpha = T[2]
+if not SD02%2==0:
+    print("invalid")
+elif alpha in V:
+    print("invalid")
+elif not SD35%2==0:
+    print("invalid")
+elif not SD46%2==0:
+    print("invalid")
+elif not SD78%2==0:
+    print("invalid")
+else:
+    print("valid")
